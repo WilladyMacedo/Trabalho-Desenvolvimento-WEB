@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="grid-container">
+      <div class="header">Header</div>
+      <div class="content">Content</div>
+      <div class="footer">Footer</div>
+      <div class="sidebar">Sidebar</div>
+      <div class="extra">Extra</div>
+  </div>
+</body>
+
+</html>

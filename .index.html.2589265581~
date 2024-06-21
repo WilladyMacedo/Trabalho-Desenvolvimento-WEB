@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>EnemVerso</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="grid-container">
+      <div class="header">Header</div>
+      <div class="content">  </div>
+      <div class="sidebar">Sidebar</div>
+      <div class="extra"></div>
+      <div class="footer">Footer</div>
+      <div class="sidebar">Sidebar</div>
+      <div class="extra">Extra</div>
+      <div class="footer">Footer</div>
+  </div>
+</body>
+
+</html>
